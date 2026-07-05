@@ -1,3 +1,11 @@
+<img width="1325" height="688" alt="Screenshot 2026-07-05 103618" src="https://github.com/user-attachments/assets/a837f0d2-3268-4f9e-a491-d558fea06978" />
+<img width="1282" height="451" alt="Screenshot 2026-07-05 110458" src="https://github.com/user-attachments/assets/bd1cade9-7981-410c-81b4-f3490acec854" />
+<img width="818" height="545" alt="Screenshot 2026-07-05 110436" src="https://github.com/user-attachments/assets/aef8c55a-78b1-41ed-b5eb-e4645b8a3d0e" />
+<img width="1290" height="567" alt="Screenshot 2026-07-05 110415" src="https://github.com/user-attachments/assets/61aaef8e-2a26-48ba-8d8e-bb6f725fe545" />
+<img width="1332" height="541" alt="Screenshot 2026-07-05 110355" src="https://github.com/user-attachments/assets/1b7fef82-7e85-4f61-bb06-e145f08a9918" />
+
+
+
 # 📊 Sales Analytics Dashboard
 
 > An interactive Streamlit business intelligence dashboard — KPI cards, revenue trends, regional breakdowns, and top-product rankings from any CSV/Excel sales dataset.
